@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1729328095 source:d:\strukdat\tp6\dll.cpp
+	<iostream>
+	"DLL.h"
+
+1729324821 d:\strukdat\tp6\dll.h
+	<iostream>
+
+1729329608 source:d:\strukdat\tp6\main.cpp
+	<iostream>
+	"DLL.h"
+

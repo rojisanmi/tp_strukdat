@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1731002998 source:d:\strukdat\assignment8\main.cpp
+	<iostream>
+	"queue_vaksinasi.h"
+
+1731001403 d:\strukdat\assignment8\queue_vaksinasi.h
+	<iostream>
+
+1731004263 source:d:\strukdat\assignment8\queue_vaksinasi.cpp
+	<iostream>
+	"queue_vaksinasi.h"
+

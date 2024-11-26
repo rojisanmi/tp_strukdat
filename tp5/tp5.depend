@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1728838128 source:d:\strukdat\tp5\main.cpp
+	<iostream>
+	"list.h"
+
+1728833416 d:\strukdat\tp5\list.h
+	<iostream>
+
+1728838649 source:d:\strukdat\tp5\visitorlibrary.cpp
+	<iostream>
+	"list.h"
+

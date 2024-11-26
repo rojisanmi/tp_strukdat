@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1732293622 source:d:\strukdat\tp11\main.cpp
+	<iostream>
+	"graph.h"
+
+1732291930 d:\strukdat\tp11\graph.h
+	<iostream>
+

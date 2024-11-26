@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1727542116 source:d:\strukdat\coba_adt\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	"kerucut.h"
+
+1727541867 d:\strukdat\coba_adt\kerucut.cpp
+	<iostream>
+	<cmath>
+	"kerucut.h"
+
+1727542173 d:\strukdat\coba_adt\kerucut.h
+
+1727542109 source:d:\strukdat\coba_adt\kerucut.cpp
+	<iostream>
+	<cmath>
+	"kerucut.h"
+
